@@ -9,7 +9,7 @@
 🎓 Élève ingénieur statisticien-économiste à l'**ENSAE Dakar** (2023–2026)  
 📊 Passionné par la **data science**, l'**analyse statistique** et l'**économie appliquée**  
 💻 Je code en **Python**, **R**, **Stata** et je développe des applications avec **Streamlit** et **RShiny**  
-🌱 Actuellement en apprentissage : **Deep Learning** et **Big Data**  
+
 
 📧 **Email :** rasitraore9@gmail.com  
 📱 **Tel :** +221 77 674 66 84  
