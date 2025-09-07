@@ -1,8 +1,8 @@
 # 👋 Bonjour, je suis Traoré Sié Rachid  
 
-🎓 Élève ingénieur statisticien-économiste à l’**ENSAE Dakar** (2023–2026)  
-📊 Passionné par la **data science**, l’**analyse statistique** et l’**économie appliquée**  
-💻 Je code en Python, R, Stata et j’aime créer des applications avec **Streamlit** et **RShiny**  
+🎓 Élève ingénieur statisticien-économiste à l'**ENSAE Dakar** (2023–2026)  
+📊 Passionné par la **data science**, l'**analyse statistique** et l'**économie appliquée**  
+💻 Je code en Python, R, Stata et j'aime créer des applications avec **Streamlit** et **RShiny**  
 🌱 Actuellement en apprentissage : **Deep Learning** et **Big Data**  
 
 📧 **Email :** rasitraore9@gmail.com  
@@ -18,15 +18,15 @@
 - **Machine Learning :** modèles supervisés et non supervisés avec Python (scikit-learn)  
 - **Développement web :** Streamlit | RShiny  
 - **Bureautique :** MS Office  
-- **Autres :** Formation d’assistant comptable  
+- **Autres :** Formation d'assistant comptable  
 
 ---
 
 ## 💡 Compétences Comportementales  
 
-- ✅ Prise d’initiative  
+- ✅ Prise d'initiative  
 - ✅ Créativité  
-- ✅ Esprit d’équipe  
+- ✅ Esprit d'équipe  
 
 ---
 
@@ -45,26 +45,60 @@
 
 ## 🎓 Formation  
 
+### 🌍 Parcours Académique
+
 - **ENSAE Dakar** (2023 – 2026)  
-  *Cycle d’ingénieur statisticien-économiste*  
+  *Cycle d'ingénieur statisticien-économiste*  
 
 - **École Polytechnique de Ouagadougou** (2021 – 2023)  
-  *Classes préparatoires MP*  
+  *Classes préparatoires - Filière Physique, Chimie et Sciences de l'Ingénieur (PCSI)*  
 
 ---
 
-## 🌍 Langues  
+## 📘 Fondamentaux Académiques (Classes Préparatoires PCSI - EPO)
 
-- 🇫🇷 **Français :** Langue maternelle  
-- 🇬🇧 **Anglais :** Intermédiaire  
+Ma formation en classes préparatoires à l'**École Polytechnique de Ouagadougou** m'a offert une base scientifique solide et pluridisciplinaire, essentielle pour mes études d'ingénieur.
+
+### 🧮 **Mathématiques Approfondies**
+- **Algèbre :** Structures algébriques, espaces vectoriels, matrices, déterminants.
+- **Analyse :** Suites, séries, fonctions, calcul différentiel et intégral, équations différentielles.
+- **Probabilités & Statistiques :** Modélisation, variables aléatoires, lois usuelles.
+- **Géométrie :** Espaces euclidiens, produits scalaires.
+
+### ⚛️ **Physique Fondamentale & Appliquée**
+- **Mécanique :** Mécanique du point, dynamique des fluides.
+- **Électromagnétisme :** Électrocinétique, induction, équations de Maxwell.
+- **Optique :** Géométrique et physique, interférences, diffraction.
+- **Thermodynamique :** Lois fondamentales, statique et dynamique des fluides.
+- **Physique Moderne :** Introduction à la mécanique quantique, physique des ondes, lasers.
+
+### 🧪 **Chimie Générale & Organique**
+- **Atomistique & Structure de la matière**
+- **Thermochimie & Cinétique chimique**
+- **Chimie des solutions & Électrochimie**
+- **Cristallographie**
+- **Chimie Organique (Niveaux 1 & 2)**
+
+### 💻 **Sciences de l'Ingénieur & Informatique**
+- **Informatique :** Algorithmique, programmation Python, structures de données, POO, bases de données.
+- **Sciences Industrielles :**
+  - **Automatique :** Systèmes linéaires, asservissements.
+  - **Mécanique :** Solides indéformables, conception mécanique.
+  - **Modélisation :** Langage SysML, dessin technique.
+
+### 🌐 **Langues & Expression**
+- **Français :** Grammaire, techniques d'expression écrite, étude littéraire.
+- **Anglais :** Compréhension écrite, rédaction scientifique, technique des QCM, présentations.
+
+*Cette formation exigeante m'a doté d'une rigueur analytique, d'une capacité de modélisation et d'une aisance technique qui fondent aujourd'hui mon approche des projets de data science et d'économie quantitative.*
 
 ---
 
-## 📚 Formation académique à l’ENSAE Dakar  
+## 📚 Formation académique à l'ENSAE Dakar  
 
-🎓 **Cycle d’ingénieur statisticien-économiste** (2023 – 2026)  
+🎓 **Cycle d'ingénieur statisticien-économiste** (2023 – 2026)  
 
-Durant ma formation, j’acquiers des compétences solides dans plusieurs domaines :  
+Durant ma formation, j'acquiers des compétences solides dans plusieurs domaines :  
 
 ---
 
@@ -107,7 +141,7 @@ Durant ma formation, j’acquiers des compétences solides dans plusieurs domain
 ### 📂 Projets pratiques  
 - 📊 **Modélisation statistique**  
 - 📈 **Analyse économétrique**  
-- 🖥️ **Développement d’applications analytiques (Streamlit, RShiny)**  
+- 🖥️ **Développement d'applications analytiques (Streamlit, RShiny)**  
 - 📉 **Études appliquées en économie & data science**  
 
 ---
@@ -118,20 +152,20 @@ Durant ma formation, j’acquiers des compétences solides dans plusieurs domain
 
 ---
 
-📌 Cette formation associe **rigueur mathématique**, **analyse économique** et **applications informatiques**, me permettant de développer un profil polyvalent en **statistique et data science appliquée à l’économie**.  
+📌 Cette formation associe **rigueur mathématique**, **analyse économique** et **applications informatiques**, me permettant de développer un profil polyvalent en **statistique et data science appliquée à l'économie**.  
 
-## 🎶 Centres d’intérêt  
+## 🎶 Centres d'intérêt  
 
 - ⚽ **Sport :** Football  
 - 🎹 **Art :** Piano, technicien de son  
 - 🌱 **Écologie :** Président du club des Casques Verts (EPO, 2022–2023)  
-- 🎽 **Vie associative :** Responsable activités sportives de l’Amicale des Burkinabè à l’ENSAE  
+- 🎽 **Vie associative :** Responsable activités sportives de l'Amicale des Burkinabè à l'ENSAE  
 
 ---
 
 ## 🤝 Collaborons !  
 
-Je suis toujours ouvert aux projets autour de la **data science**, de l’**analyse économique** et du **développement web & analytique**.  
+Je suis toujours ouvert aux projets autour de la **data science**, de l'**analyse économique** et du **développement web & analytique**.  
 
 <div align="center">
 
