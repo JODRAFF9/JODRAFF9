@@ -151,48 +151,118 @@ Compréhension écrite, rédaction scientifique, présentations orales
 
 Durant ma formation, j'acquiers des compétences solides dans plusieurs domaines :  
 
-### 🧮 Mathématiques appliquées  
-![Algebra](https://img.shields.io/badge/Algèbre-6A5ACD?style=for-the-badge)  
-![Analysis](https://img.shields.io/badge/Analyse-2F80ED?style=for-the-badge)  
-![Probability](https://img.shields.io/badge/Probabilités-FFA500?style=for-the-badge)  
-![Calculus](https://img.shields.io/badge/Calcul-008080?style=for-the-badge)  
+---
 
-### 📊 Statistique & Data Science  
-![Stats](https://img.shields.io/badge/Statistiques-2E8B57?style=for-the-badge)  
-![ML](https://img.shields.io/badge/Machine_Learning-FF4500?style=for-the-badge)  
-![Econometrics](https://img.shields.io/badge/Econométrie-4682B4?style=for-the-badge)  
-![DataViz](https://img.shields.io/badge/Data_Visualisation-FF69B4?style=for-the-badge)  
+### 🧮 Mathématiques appliquées
+![Algèbre](https://img.shields.io/badge/Algèbre-6A5ACD?style=for-the-badge)  
+Structures algébriques, espaces vectoriels, matrices, déterminants  
 
-### 💼 Économie & Gestion  
-![Micro](https://img.shields.io/badge/Microéconomie-FFD700?style=for-the-badge)  
-![Macro](https://img.shields.io/badge/Macroéconomie-DC143C?style=for-the-badge)  
-![Growth](https://img.shields.io/badge/Croissance-8A2BE2?style=for-the-badge)  
-![Accounting](https://img.shields.io/badge/Comptabilité-228B22?style=for-the-badge)  
+![Analyse](https://img.shields.io/badge/Analyse-2F80ED?style=for-the-badge)  
+Suites, séries, fonctions, calcul différentiel et intégral, équations différentielles  
 
-### 💻 Informatique & Programmation  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![Stata](https://img.shields.io/badge/Stata-00BFFF?style=for-the-badge)  
-![SPSS](https://img.shields.io/badge/SPSS-FF6347?style=for-the-badge)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)  
-![RShiny](https://img.shields.io/badge/RShiny-1E90FF?style=for-the-badge)  
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge)  
+![Probabilités](https://img.shields.io/badge/Probabilités-FFA500?style=for-the-badge)  
+Modélisation, variables aléatoires, lois usuelles  
 
-### 📂 Projets pratiques  
-- 📊 **Modélisation statistique**  
-- 📈 **Analyse économétrique**  
-- 🖥️ **Applications analytiques (Streamlit, RShiny)**  
-- 📉 **Études appliquées en économie & data science**  
+![Calcul](https://img.shields.io/badge/Calcul-008080?style=for-the-badge)  
+Calcul différentiel et intégral appliqué  
+
+![Mathématiques](https://img.shields.io/badge/Mathématiques-4B0082?style=for-the-badge)  
+Compétences globales en mathématiques appliquées  
 
 ---
 
-## 🎶 Centres d'intérêt  
+### 📊 Statistique & Data Science
+![Statistiques](https://img.shields.io/badge/Statistiques-2E8B57?style=for-the-badge)  
+Analyse et traitement des données  
 
-- ⚽ **Sport :** Football  
-- 🎹 **Art :** Piano, technicien de son  
-- 🌱 **Écologie :** Président du club des Casques Verts (EPO, 2022–2023)  
-- 🎽 **Vie associative :** Responsable activités sportives de l'Amicale des Burkinabè à l'ENSAE  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF4500?style=for-the-badge)  
+Apprentissage automatique et modèles prédictifs  
+
+![Économétrie](https://img.shields.io/badge/Économétrie-4682B4?style=for-the-badge)  
+Études économétriques et modélisation  
+
+![Data Visualisation](https://img.shields.io/badge/Data_Visualisation-FF69B4?style=for-the-badge)  
+Visualisation et interprétation graphique des données  
+
+![Statistique & Data Science](https://img.shields.io/badge/Statistique_&_Data_Science-006400?style=for-the-badge)  
+Compétences globales en data science et statistique  
+
+---
+
+### 💼 Économie & Gestion
+![Microéconomie](https://img.shields.io/badge/Microéconomie-FFD700?style=for-the-badge)  
+Analyse des comportements des agents économiques  
+
+![Macroéconomie](https://img.shields.io/badge/Macroéconomie-DC143C?style=for-the-badge)  
+Études des grandes tendances économiques et politiques  
+
+![Croissance](https://img.shields.io/badge/Croissance-8A2BE2?style=for-the-badge)  
+Évaluation et analyse de la croissance économique  
+
+![Comptabilité](https://img.shields.io/badge/Comptabilité-228B22?style=for-the-badge)  
+Gestion financière et tenue de comptes  
+
+![Économie & Gestion](https://img.shields.io/badge/Économie_&_Gestion-8B0000?style=for-the-badge)  
+Compétences globales en économie et gestion  
+
+---
+
+### 💻 Informatique & Programmation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+Programmation et analyse de données en Python  
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+Analyse statistique et modélisation avec R  
+
+![Stata](https://img.shields.io/badge/Stata-00BFFF?style=for-the-badge)  
+Traitement de données économiques et statistiques  
+
+![SPSS](https://img.shields.io/badge/SPSS-FF6347?style=for-the-badge)  
+Analyse statistique avancée  
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)  
+Gestion et requêtes de bases de données  
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)  
+Création d’applications interactives pour la data  
+
+![RShiny](https://img.shields.io/badge/RShiny-1E90FF?style=for-the-badge)  
+Applications interactives avec R  
+
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge)  
+Automatisation et programmation Excel  
+
+![Informatique & Programmation](https://img.shields.io/badge/Informatique_&_Programmation-483D8B?style=for-the-badge)  
+Compétences globales en informatique et programmation  
+
+---
+
+### 📂 Projets pratiques
+![Modélisation statistique](https://img.shields.io/badge/Modélisation_statistique-1E90FF?style=for-the-badge)  
+Analyse et modélisation des données statistiques  
+
+![Analyse économétrique](https://img.shields.io/badge/Analyse_économétrique-FF4500?style=for-the-badge)  
+Réalisation d’études économétriques et interprétation des résultats  
+
+![Applications analytiques](https://img.shields.io/badge/Applications_analytiques-2E8B57?style=for-the-badge)  
+Développement d’applications interactives avec Streamlit et RShiny  
+
+![Études appliquées en économie & data science](https://img.shields.io/badge/Études_appliquées-DA70D6?style=for-the-badge)  
+Projets concrets combinant économie et data science
+
+## 🎶 Centres d'intérêt
+
+![Sport](https://img.shields.io/badge/Sport-FF4500?style=for-the-badge)  
+Football, activités sportives régulières  
+
+![Art](https://img.shields.io/badge/Art-1E90FF?style=for-the-badge)  
+Piano, technicien de son  
+
+![Écologie](https://img.shields.io/badge/Écologie-32CD32?style=for-the-badge)  
+Président du club des Casques Verts (EPO, 2022–2023)  
+
+![Vie associative](https://img.shields.io/badge/Vie_associative-FFD700?style=for-the-badge)  
+Responsable activités sportives de l'Amicale des Burkinabè à l'ENSAE
 
 ---
 
