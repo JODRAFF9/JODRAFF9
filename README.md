@@ -67,40 +67,81 @@
 
 ---
 
-## 📘 Fondamentaux Académiques (PCSI – EPO)  
+## 📘 Fondamentaux Académiques (PCSI – EPO)
 
 Ma formation en classes préparatoires m’a offert une base scientifique solide et pluridisciplinaire, essentielle pour mes études d’ingénieur.  
 
-### 🧮 **Mathématiques Approfondies**  
-- Algèbre : structures algébriques, espaces vectoriels, matrices, déterminants  
-- Analyse : suites, séries, fonctions, calcul différentiel et intégral, équations différentielles  
-- Probabilités & Statistiques : modélisation, variables aléatoires, lois usuelles  
-- Géométrie : espaces euclidiens, produits scalaires  
+---
 
-### ⚛️ **Physique Fondamentale & Appliquée**  
-- Mécanique : cinématique, dynamique du point, dynamique des fluides  
-- Électromagnétisme : électrocinétique, induction, équations de Maxwell  
-- Optique : géométrique, physique, interférences, diffraction  
-- Thermodynamique : lois fondamentales, mécanique des fluides  
-- Physique moderne : introduction à la mécanique quantique, ondes, lasers  
+### 🧮 Mathématiques Approfondies
+![Algèbre](https://img.shields.io/badge/Algèbre-1E90FF?style=for-the-badge)  
+Structures algébriques, espaces vectoriels, matrices, déterminants  
 
-### 🧪 **Chimie Générale & Organique**  
-- Atomistique & structure de la matière  
-- Thermochimie & cinétique chimique  
-- Chimie des solutions & électrochimie  
-- Cristallographie  
-- Chimie organique (niveaux 1 & 2)  
+![Analyse](https://img.shields.io/badge/Analyse-4169E1?style=for-the-badge)  
+Suites, séries, fonctions, calcul différentiel et intégral, équations différentielles  
 
-### 💻 **Sciences de l'Ingénieur & Informatique**  
-- Informatique : algorithmique, programmation Python, structures de données, POO, bases de données  
-- Sciences industrielles :  
-  - Automatique : systèmes linéaires, asservissements  
-  - Mécanique : solides indéformables, conception mécanique  
-  - Modélisation : langage SysML, dessin technique  
+![Probabilités & Statistiques](https://img.shields.io/badge/Probabilités_&_Statistiques-2E8B57?style=for-the-badge)  
+Modélisation, variables aléatoires, lois usuelles  
 
-### 🌐 **Langues & Expression**  
-- Français : grammaire, techniques d’expression écrite, études littéraires  
-- Anglais : compréhension écrite, rédaction scientifique, QCM, présentations  
+![Géométrie](https://img.shields.io/badge/Géométrie-20B2AA?style=for-the-badge)  
+Espaces euclidiens, produits scalaires  
+
+---
+
+### ⚛️ Physique Fondamentale & Appliquée
+![Mécanique](https://img.shields.io/badge/Mécanique-FF8C00?style=for-the-badge)  
+Cinématique, dynamique du point, dynamique des fluides  
+
+![Électromagnétisme](https://img.shields.io/badge/Électromagnétisme-DAA520?style=for-the-badge)  
+Électrocinétique, induction, équations de Maxwell  
+
+![Optique](https://img.shields.io/badge/Optique-FFD700?style=for-the-badge)  
+Optique géométrique et physique, interférences, diffraction  
+
+![Thermodynamique](https://img.shields.io/badge/Thermodynamique-FFB347?style=for-the-badge)  
+Lois fondamentales, mécanique des fluides  
+
+![Physique moderne](https://img.shields.io/badge/Physique_moderne-FFA07A?style=for-the-badge)  
+Introduction à la mécanique quantique, ondes, lasers  
+
+---
+
+### 🧪 Chimie Générale & Organique
+![Atomistique](https://img.shields.io/badge/Atomistique-9932CC?style=for-the-badge)  
+Structure de la matière  
+
+![Thermochimie](https://img.shields.io/badge/Thermochimie-BA55D3?style=for-the-badge)  
+Cinétique chimique, bilans énergétiques  
+
+![Chimie des solutions](https://img.shields.io/badge/Chimie_des_solutions-8A2BE2?style=for-the-badge)  
+Électrochimie, cristallographie  
+
+![Chimie organique](https://img.shields.io/badge/Chimie_organique-DA70D6?style=for-the-badge)  
+Niveaux 1 & 2  
+
+---
+
+### 💻 Sciences de l'Ingénieur & Informatique
+![Informatique](https://img.shields.io/badge/Informatique-00BFFF?style=for-the-badge)  
+Algorithmique, programmation Python, structures de données, POO, bases de données  
+
+![Automatique](https://img.shields.io/badge/Automatique-4682B4?style=for-the-badge)  
+Systèmes linéaires, asservissements  
+
+![Mécanique industrielle](https://img.shields.io/badge/Mécanique_industrielle-5F9EA0?style=for-the-badge)  
+Solides indéformables, conception mécanique  
+
+![Modélisation](https://img.shields.io/badge/Modélisation-008B8B?style=for-the-badge)  
+Langage SysML, dessin technique  
+
+---
+
+### 🌐 Langues & Expression
+![Français](https://img.shields.io/badge/Français-708090?style=for-the-badge)  
+Grammaire, expression écrite, études littéraires  
+
+![Anglais](https://img.shields.io/badge/Anglais-1E90FF?style=for-the-badge)  
+Compréhension écrite, rédaction scientifique, présentations orales  
 
 ---
 
