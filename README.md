@@ -54,7 +54,8 @@
 </div>  
 
 ---
-
+![GitHub Metrics](./github-metrics.svg)
+---
 ## 🎓 Formation  
 
 ### 🌍 Parcours Académique  
