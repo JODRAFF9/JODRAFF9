@@ -1,21 +1,24 @@
 name: GitHub Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"   # met à jour tous les jours
+    - cron: "0 0 * * *"   # mise à jour quotidienne à minuit
   workflow_dispatch:      # permet de lancer manuellement
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 🔑 essentiel pour push le SVG dans le repo
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}  # classic personal access token
 
-          # FICHIER DE SORTIE
+          # Nom du fichier généré
           filename: github-metrics.svg
 
-          # MODULES DE BASE
+          # Modules de base
           base: header, activity, community, repositories, metadata
 
-          # OPTIONS
+          # Options supplémentaires
           config_timezone: Africa/Dakar
