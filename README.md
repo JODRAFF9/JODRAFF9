@@ -119,6 +119,10 @@
 
 ![JODRAFF9's github activity graph](https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/output/github-contribution-grid-snake.svg)
 
+
+![JODRAFF9's github activity graph](https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/output/github-contribution-grid-snake.svg)
+![JODRAFF9's github activity graph dark](https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/output/github-contribution-grid-snake-dark.svg)
+
 <!--   stats + languages -->
 
 | .                                                                                                                                                 | .                                                                                                                                  |
