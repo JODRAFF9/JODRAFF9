@@ -84,29 +84,29 @@
 <p>Use the arrow keys and A/B buttons below (they connect to my LinkedIn profile)</p>
 
 <div>
-  <a href="https://www.linkedin.com/in/JODRAFF9" target="_blank">
+  <a href="https://www.linkedin.com/in/siérachidtraoré" target="_blank">
   <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/me64.png" width="300" alt="Profile Avatar" />
  </a>
   <br />
   <br />
-  <a href="https://www.linkedin.com/in/JODRAFF9?button=2&callback=https://github.com/JODRAFF9" target="_blank">
+  <a href="https://www.linkedin.com/in/siérachidtraoré?button=2&callback=https://github.com/JODRAFF9" target="_blank">
     <img src="https://raw.githubusercontent.com/idimetrix/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/up.png" width="35" alt="Up Arrow Button" />
   </a>
   <br />
-  <a href="https://www.linkedin.com/in/JODRAFF9?button=1&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/left.png" width="35" alt="Left Arrow Button" /></a>
+  <a href="https://www.linkedin.com/in/siérachidtraoré?button=1&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/left.png" width="35" alt="Left Arrow Button" /></a>
   <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" />
-  <a href="https://www.linkedin.com/in/JODRAFF9?button=0&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/right.png" width="35" alt="Right Arrow Button" /></a>
+  <a href="https://www.linkedin.com/in/siérachidtraoré?button=0&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/right.png" width="35" alt="Right Arrow Button" /></a>
   <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" />
   <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=5&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/B.png" width="35" alt="B Button" /></a>
-  <a href="https://www.linkedin.com/in/JODRAFF9?button=4&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/A.png" width="35" alt="A Button" /></a> <br />
-  <a href="https://www.linkedin.com/in/JODRAFF9?button=3&callback=https://github.com/JODRAFF9" target="_blank">
+  <a href="https://www.linkedin.com/in/siérachidtraoré?button=5&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/B.png" width="35" alt="B Button" /></a>
+  <a href="https://www.linkedin.com/in/siérachidtraoré?button=4&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/A.png" width="35" alt="A Button" /></a> <br />
+  <a href="https://www.linkedin.com/in/siérachidtraoré?button=3&callback=https://github.com/JODRAFF9" target="_blank">
     <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/down.png" width="35" alt="Down Arrow Button" />
   </a>
   <br />
   <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" />
-  <a href="https://www.linkedin.com/in/JODRAFF9?button=6&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/select.png" height="35" alt="Select Button" /></a>
-  <a href="https://www.linkedin.com/in/JODRAFF9?button=7&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/JODRAFF9/main/images/start.png" height="35" alt="Start Button" /></a>
+  <a href="https://www.linkedin.com/in/siérachidtraoré?button=6&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/select.png" height="35" alt="Select Button" /></a>
+  <a href="https://www.linkedin.com/in/siérachidtraoré?button=7&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/JODRAFF9/main/images/start.png" height="35" alt="Start Button" /></a>
 </div>
 
 </details>
