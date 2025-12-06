@@ -124,11 +124,7 @@
 ![JODRAFF9's github activity graph dark](https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/output/github-contribution-grid-snake-dark.svg)
 
 <!--   stats + languages -->
-
-| .                                                                                                                                                 | .                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| ![JODRAFF9's github stats](https://github-readme-stats.vercel.app/api?username=JODRAFF9&show_icons=true&theme=radical&include_all_commits=true) | |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JODRAFF9&theme=radical&layout=compact) |
-|
+ | |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JODRAFF9&theme=radical&layout=compact) |
 
 <!--   profile-green-animate -->
 
