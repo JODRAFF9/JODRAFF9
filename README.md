@@ -127,7 +127,8 @@
 
 | .                                                                                                                                                 | .                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| ![JODRAFF9's github stats](https://github-readme-stats.vercel.app/api?username=JODRAFF9&show_icons=true&theme=radical&include_all_commits=true) | ![JODRAFF9's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JODRAFF9&theme=radical&layout=compact) |
+| ![JODRAFF9's github stats](https://github-readme-stats.vercel.app/api?username=JODRAFF9&show_icons=true&theme=radical&include_all_commits=true) | |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JODRAFF9&theme=radical&layout=compact) |
+|
 
 <!--   profile-green-animate -->
 
