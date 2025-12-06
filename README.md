@@ -84,29 +84,29 @@
 <p>Use the arrow keys and A/B buttons below (they connect to my LinkedIn profile)</p>
 
 <div>
-  <a href="https://www.linkedin.com/in/dimetrix" target="_blank">
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/me64.png" width="300" alt="Profile Avatar" />
+  <a href="https://www.linkedin.com/in/JODRAFF9" target="_blank">
+  <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/me64.png" width="300" alt="Profile Avatar" />
  </a>
   <br />
   <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=2&callback=https://github.com/idimetrix" target="_blank">
-    <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/up.png" width="35" alt="Up Arrow Button" />
+  <a href="https://www.linkedin.com/in/JODRAFF9?button=2&callback=https://github.com/JODRAFF9" target="_blank">
+    <img src="https://raw.githubusercontent.com/idimetrix/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/up.png" width="35" alt="Up Arrow Button" />
   </a>
   <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=1&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/left.png" width="35" alt="Left Arrow Button" /></a>
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=0&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/right.png" width="35" alt="Right Arrow Button" /></a>
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" />
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=5&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/B.png" width="35" alt="B Button" /></a>
-  <a href="https://www.linkedin.com/in/dimetrix?button=4&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/A.png" width="35" alt="A Button" /></a> <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=3&callback=https://github.com/idimetrix" target="_blank">
-    <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/down.png" width="35" alt="Down Arrow Button" />
+  <a href="https://www.linkedin.com/in/JODRAFF9?button=1&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/left.png" width="35" alt="Left Arrow Button" /></a>
+  <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" />
+  <a href="https://www.linkedin.com/in/JODRAFF9?button=0&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/right.png" width="35" alt="Right Arrow Button" /></a>
+  <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" />
+  <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" />
+  <a href="https://www.linkedin.com/in/dimetrix?button=5&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/B.png" width="35" alt="B Button" /></a>
+  <a href="https://www.linkedin.com/in/JODRAFF9?button=4&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/A.png" width="35" alt="A Button" /></a> <br />
+  <a href="https://www.linkedin.com/in/JODRAFF9?button=3&callback=https://github.com/JODRAFF9" target="_blank">
+    <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/down.png" width="35" alt="Down Arrow Button" />
   </a>
   <br />
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=6&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/select.png" height="35" alt="Select Button" /></a>
-  <a href="https://www.linkedin.com/in/dimetrix?button=7&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/start.png" height="35" alt="Start Button" /></a>
+  <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" />
+  <a href="https://www.linkedin.com/in/JODRAFF9?button=6&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/select.png" height="35" alt="Select Button" /></a>
+  <a href="https://www.linkedin.com/in/JODRAFF9?button=7&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/JODRAFF9/main/images/start.png" height="35" alt="Start Button" /></a>
 </div>
 
 </details>
@@ -117,13 +117,13 @@
 
 <!--   green snake -->
 
-![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg)
+![idimetrix's github activity graph](https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/output/github-contribution-grid-snake.svg)
 
 <!--   stats + languages -->
 
 | .                                                                                                                                                 | .                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| ![idimetrix's github stats](https://github-readme-stats.vercel.app/api?username=idimetrix&show_icons=true&theme=radical&include_all_commits=true) | ![idimetrix's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=idimetrix&theme=radical&layout=compact) |
+| ![JODRAFF9's github stats](https://github-readme-stats.vercel.app/api?username=JODRAFF9&show_icons=true&theme=radical&include_all_commits=true) | ![JODRAFF9's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JODRAFF9&theme=radical&layout=compact) |
 
 <!--   profile-green-animate -->
 
@@ -134,7 +134,7 @@
 <h4 align="center">🏆 Trophy: Github Profile Trophy</h4>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix" alt="GitHub Profile Trophy for idimetrix" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JODRAFF9" alt="GitHub Profile Trophy for JODRAFF9" /></a>
 </p>
 
 ---
