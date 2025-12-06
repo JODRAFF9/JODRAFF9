@@ -117,7 +117,7 @@
 
 <!--   green snake -->
 
-![idimetrix's github activity graph](https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/output/github-contribution-grid-snake.svg)
+![JODRAFF9's github activity graph](https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/output/github-contribution-grid-snake.svg)
 
 <!--   stats + languages -->
 
