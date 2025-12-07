@@ -64,13 +64,6 @@
 
 ---
 
-## 🎯 Expanded GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/JODRAFF9?/> </p>
-
----
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=JODRAFF9/JODRAFF9&type=Date)](https://star-history.com/#JODRAFF9/JODRAFF9&Date)
