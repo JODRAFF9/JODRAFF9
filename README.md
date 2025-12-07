@@ -67,7 +67,7 @@
 ## 🎯 Expanded GitHub Metrics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/JODRAFF9?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&habits=1&followup=1&code=1&activity=1&achievements=1&discussions=1&lines=1&traffic=1&repositories=1&gists=1&projects=1&notable=1&introduction=1&sponsors=1&calendar=1&stargazers=1&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8" />
+  <img src="https://metrics.lecoq.io/JODRAFF9?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&habits=1&followup=1&code=1&activity=1&achievements=1&discussions=1&lines=1&traffic=1&repositories=1&gists=1&projects=1&notable=1&introduction=1&sponsors=1"/>
 </p>
 
 ---
