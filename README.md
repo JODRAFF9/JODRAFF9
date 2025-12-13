@@ -19,15 +19,7 @@
 
 ## 🚀 Compétences Techniques  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-00BFFF?style=for-the-badge)
-![SPSS](https://img.shields.io/badge/SPSS-FF6347?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![RShiny](https://img.shields.io/badge/RShiny-1E90FF?style=for-the-badge&logo=r&logoColor=white)
-![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Stata](https://img.shields.io/badge/Stata-00BFFF?style=for-the-badge)![SPSS](https://img.shields.io/badge/SPSS-FF6347?style=for-the-badge)![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)![RShiny](https://img.shields.io/badge/RShiny-1E90FF?style=for-the-badge&logo=r&logoColor=white)![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
 
 - 📊 **Analyse de données :** pandas, numpy, R, Stata, SPSS  
 - 🤖 **Machine Learning :** modèles supervisés et non supervisés (scikit-learn)  
