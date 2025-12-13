@@ -6,7 +6,7 @@
 
 ---
 <p align="center"> 🎓 Élève ingénieur statisticien-économiste à l'**ENSAE Dakar** (2023–2026)  <br>
-📊 Passionné par la **data science**, l'**analyse statistique** et l'**économie appliquée**  
+📊 Passionné par la **data science**, l'**analyse statistique** et l'**économie appliquée**  <br> 
 💻 Je code en **Python**, **R**, **Stata** et je développe des applications avec **Streamlit** et **RShiny**   </p>
 
 
