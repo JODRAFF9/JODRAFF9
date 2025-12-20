@@ -184,59 +184,169 @@ Ma formation en classes préparatoires m’a offert une base scientifique solide
 ---
 
 ### ⚛️ Physique Fondamentale & Appliquée
-![Mécanique](https://img.shields.io/badge/Mécanique-FF8C00?style=for-the-badge)  
-Cinématique, dynamique du point, dynamique des fluides  
+<table style="width:100%; border-collapse: collapse; text-align:center;">
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Mécanique-FF8C00?style=for-the-badge" alt="Mécanique">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Électromagnétisme-DAA520?style=for-the-badge" alt="Électromagnétisme">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Cinématique<br>
+      Dynamique du point<br>
+      Dynamique des fluides
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Électrocinétique<br>
+      Induction<br>
+      Équations de Maxwell
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Optique-FFD700?style=for-the-badge" alt="Optique">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Thermodynamique-FFB347?style=for-the-badge" alt="Thermodynamique">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Optique géométrique et physique<br>
+      Interférences<br>
+      Diffraction
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Lois fondamentales<br>
+      Mécanique des fluides
+    </td>
+  </tr>
+</table>
 
-![Électromagnétisme](https://img.shields.io/badge/Électromagnétisme-DAA520?style=for-the-badge)  
-Électrocinétique, induction, équations de Maxwell  
+<div style="margin-top:15px; text-align:center;">
+  <img src="https://img.shields.io/badge/Physique_moderne-FFA07A?style=for-the-badge" alt="Physique moderne">
+  <p>
+    Introduction à la mécanique quantique<br>
+    Ondes<br>
+    Lasers
+  </p>
+</div>
 
-![Optique](https://img.shields.io/badge/Optique-FFD700?style=for-the-badge)  
-Optique géométrique et physique, interférences, diffraction  
-
-![Thermodynamique](https://img.shields.io/badge/Thermodynamique-FFB347?style=for-the-badge)  
-Lois fondamentales, mécanique des fluides  
-
-![Physique moderne](https://img.shields.io/badge/Physique_moderne-FFA07A?style=for-the-badge)  
-Introduction à la mécanique quantique, ondes, lasers  
 
 ---
 
 ### 🧪 Chimie Générale & Organique
-![Atomistique](https://img.shields.io/badge/Atomistique-9932CC?style=for-the-badge)  
-Structure de la matière  
-
-![Thermochimie](https://img.shields.io/badge/Thermochimie-BA55D3?style=for-the-badge)  
-Cinétique chimique, bilans énergétiques  
-
-![Chimie des solutions](https://img.shields.io/badge/Chimie_des_solutions-8A2BE2?style=for-the-badge)  
-Électrochimie, cristallographie  
-
-![Chimie organique](https://img.shields.io/badge/Chimie_organique-DA70D6?style=for-the-badge)  
-Niveaux 1 & 2  
+<table style="width:100%; border-collapse: collapse; text-align:center;">
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Atomistique-9932CC?style=for-the-badge" alt="Atomistique">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Thermochimie-BA55D3?style=for-the-badge" alt="Thermochimie">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Structure de la matière
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Cinétique chimique<br>
+      Bilans énergétiques
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Chimie_des_solutions-8A2BE2?style=for-the-badge" alt="Chimie des solutions">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Chimie_organique-DA70D6?style=for-the-badge" alt="Chimie organique">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Électrochimie<br>
+      Cristallographie
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Niveaux 1 &amp; 2
+    </td>
+  </tr>
+</table>
+ 
 
 ---
 
 ### 💻 Sciences de l'Ingénieur & Informatique
-![Informatique](https://img.shields.io/badge/Informatique-00BFFF?style=for-the-badge)  
-Algorithmique, programmation Python, structures de données, POO, bases de données  
-
-![Automatique](https://img.shields.io/badge/Automatique-4682B4?style=for-the-badge)  
-Systèmes linéaires, asservissements  
-
-![Mécanique industrielle](https://img.shields.io/badge/Mécanique_industrielle-5F9EA0?style=for-the-badge)  
-Solides indéformables, conception mécanique  
-
-![Modélisation](https://img.shields.io/badge/Modélisation-008B8B?style=for-the-badge)  
-Langage SysML, dessin technique  
+<table style="width:100%; border-collapse: collapse; text-align:center;">
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Informatique-00BFFF?style=for-the-badge" alt="Informatique">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Automatique-4682B4?style=for-the-badge" alt="Automatique">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Algorithmique<br>
+      Programmation Python<br>
+      Structures de données<br>
+      POO<br>
+      Bases de données
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Systèmes linéaires<br>
+      Asservissements
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Mécanique_industrielle-5F9EA0?style=for-the-badge" alt="Mécanique industrielle">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Modélisation-008B8B?style=for-the-badge" alt="Modélisation">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Solides indéformables<br>
+      Conception mécanique
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Langage SysML<br>
+      Dessin technique
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🌐 Langues & Expression
-![Français](https://img.shields.io/badge/Français-708090?style=for-the-badge)  
-Grammaire, expression écrite, études littéraires  
-
-![Anglais](https://img.shields.io/badge/Anglais-1E90FF?style=for-the-badge)  
-Compréhension écrite, rédaction scientifique, présentations orales  
+<table style="width:100%; border-collapse: collapse; text-align:center;">
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Français-708090?style=for-the-badge" alt="Français">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Anglais-1E90FF?style=for-the-badge" alt="Anglais">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Grammaire<br>
+      Expression écrite<br>
+      Études littéraires
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Compréhension écrite<br>
+      Rédaction scientifique<br>
+      Présentations orales
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -249,115 +359,296 @@ Durant ma formation, j'acquiers des compétences solides dans plusieurs domaines
 ---
 
 ### 🧮 Mathématiques appliquées
-![Algèbre](https://img.shields.io/badge/Algèbre-6A5ACD?style=for-the-badge)  
-Structures algébriques, espaces vectoriels, matrices, déterminants  
-
-![Analyse](https://img.shields.io/badge/Analyse-2F80ED?style=for-the-badge)  
-Suites, séries, fonctions, calcul différentiel et intégral, équations différentielles  
-
-![Probabilités](https://img.shields.io/badge/Probabilités-FFA500?style=for-the-badge)  
-Modélisation, variables aléatoires, lois usuelles  
-
-![Calcul](https://img.shields.io/badge/Calcul-008080?style=for-the-badge)  
-Calcul différentiel et intégral appliqué  
-
-![Mathématiques](https://img.shields.io/badge/Mathématiques-4B0082?style=for-the-badge)  
-Compétences globales en mathématiques appliquées  
+<table style="width:100%; border-collapse: collapse; text-align:center;">
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Algèbre-6A5ACD?style=for-the-badge" alt="Algèbre">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Analyse-2F80ED?style=for-the-badge" alt="Analyse">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Structures algébriques<br>
+      Espaces vectoriels<br>
+      Matrices<br>
+      Déterminants
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Suites et séries<br>
+      Fonctions<br>
+      Calcul différentiel et intégral<br>
+      Équations différentielles
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Probabilités-FFA500?style=for-the-badge" alt="Probabilités">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Calcul-008080?style=for-the-badge" alt="Calcul">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Modélisation<br>
+      Variables aléatoires<br>
+      Lois usuelles
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Calcul différentiel et intégral appliqué
+    </td>
+  </tr>
+</table>
+ 
 
 ---
 
 ### 📊 Statistique & Data Science
-![Statistiques](https://img.shields.io/badge/Statistiques-2E8B57?style=for-the-badge)  
-Analyse et traitement des données  
+<table style="width:100%; border-collapse: collapse; text-align:center;">
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Statistiques-2E8B57?style=for-the-badge" alt="Statistiques">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Machine_Learning-FF4500?style=for-the-badge" alt="Machine Learning">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Analyse et traitement des données
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Apprentissage automatique<br>
+      Modèles prédictifs
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Économétrie-4682B4?style=for-the-badge" alt="Économétrie">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Data_Visualisation-FF69B4?style=for-the-badge" alt="Data Visualisation">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Études économétriques<br>
+      Modélisation
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Visualisation<br>
+      Interprétation graphique des données
+    </td>
+  </tr>
+</table>
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF4500?style=for-the-badge)  
-Apprentissage automatique et modèles prédictifs  
+ <div style="margin-top:15px; text-align:center;">
+  <img src="https://img.shields.io/badge/Statistique_&_Data_Science-006400?style=for-the-badge" alt="Statistique & Data Science">
+  <p>
+    Compétences globales en data science et statistique
+  </p>
+</div>
 
-![Économétrie](https://img.shields.io/badge/Économétrie-4682B4?style=for-the-badge)  
-Études économétriques et modélisation  
-
-![Data Visualisation](https://img.shields.io/badge/Data_Visualisation-FF69B4?style=for-the-badge)  
-Visualisation et interprétation graphique des données  
-
-![Statistique & Data Science](https://img.shields.io/badge/Statistique_&_Data_Science-006400?style=for-the-badge)  
-Compétences globales en data science et statistique  
 
 ---
 
 ### 💼 Économie & Gestion
-![Microéconomie](https://img.shields.io/badge/Microéconomie-FFD700?style=for-the-badge)  
-Analyse des comportements des agents économiques  
+<table style="width:100%; border-collapse: collapse; text-align:center;">
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Microéconomie-FFD700?style=for-the-badge" alt="Microéconomie">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Macroéconomie-DC143C?style=for-the-badge" alt="Macroéconomie">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Analyse des comportements des agents économiques
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Études des grandes tendances économiques et politiques
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Croissance-8A2BE2?style=for-the-badge" alt="Croissance">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Comptabilité-228B22?style=for-the-badge" alt="Comptabilité">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Évaluation et analyse de la croissance économique
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Gestion financière<br>
+      Tenue de comptes
+    </td>
+  </tr>
+</table>
 
-![Macroéconomie](https://img.shields.io/badge/Macroéconomie-DC143C?style=for-the-badge)  
-Études des grandes tendances économiques et politiques  
+<div style="margin-top:15px; text-align:center;">
+  <img src="https://img.shields.io/badge/Économie_&_Gestion-8B0000?style=for-the-badge" alt="Économie & Gestion">
+  <p>
+    Compétences globales en économie et gestion
+  </p>
+</div>
 
-![Croissance](https://img.shields.io/badge/Croissance-8A2BE2?style=for-the-badge)  
-Évaluation et analyse de la croissance économique  
-
-![Comptabilité](https://img.shields.io/badge/Comptabilité-228B22?style=for-the-badge)  
-Gestion financière et tenue de comptes  
-
-![Économie & Gestion](https://img.shields.io/badge/Économie_&_Gestion-8B0000?style=for-the-badge)  
-Compétences globales en économie et gestion  
 
 ---
 
 ### 💻 Informatique & Programmation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-Programmation et analyse de données en Python  
+<table style="width:100%; border-collapse: collapse; text-align:center;">
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Programmation et analyse de données en Python
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Analyse statistique et modélisation avec R
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Stata-00BFFF?style=for-the-badge" alt="Stata">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/SPSS-FF6347?style=for-the-badge" alt="SPSS">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Traitement de données économiques et statistiques
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Analyse statistique avancée
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge" alt="Streamlit">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Gestion et requêtes de bases de données
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Création d’applications interactives pour la data
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/RShiny-1E90FF?style=for-the-badge" alt="RShiny">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge" alt="VBA">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Applications interactives avec R
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Automatisation et programmation Excel
+    </td>
+  </tr>
+</table>
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-Analyse statistique et modélisation avec R  
-
-![Stata](https://img.shields.io/badge/Stata-00BFFF?style=for-the-badge)  
-Traitement de données économiques et statistiques  
-
-![SPSS](https://img.shields.io/badge/SPSS-FF6347?style=for-the-badge)  
-Analyse statistique avancée  
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)  
-Gestion et requêtes de bases de données  
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)  
-Création d’applications interactives pour la data  
-
-![RShiny](https://img.shields.io/badge/RShiny-1E90FF?style=for-the-badge)  
-Applications interactives avec R  
-
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge)  
-Automatisation et programmation Excel  
-
-![Informatique & Programmation](https://img.shields.io/badge/Informatique_&_Programmation-483D8B?style=for-the-badge)  
-Compétences globales en informatique et programmation  
 
 ---
 
 ### 📂 Projets pratiques
-![Modélisation statistique](https://img.shields.io/badge/Modélisation_statistique-1E90FF?style=for-the-badge)  
-Analyse et modélisation des données statistiques  
-
-![Analyse économétrique](https://img.shields.io/badge/Analyse_économétrique-FF4500?style=for-the-badge)  
-Réalisation d’études économétriques et interprétation des résultats  
-
-![Applications analytiques](https://img.shields.io/badge/Applications_analytiques-2E8B57?style=for-the-badge)  
-Développement d’applications interactives avec Streamlit et RShiny  
-
-![Études appliquées en économie & data science](https://img.shields.io/badge/Études_appliquées-DA70D6?style=for-the-badge)  
-Projets concrets combinant économie et data science
+<table style="width:100%; border-collapse: collapse; text-align:center;">
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Modélisation_statistique-1E90FF?style=for-the-badge" alt="Modélisation statistique">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Analyse_économétrique-FF4500?style=for-the-badge" alt="Analyse économétrique">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Analyse et modélisation des données statistiques
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Réalisation d’études économétriques<br>
+      Interprétation des résultats
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Applications_analytiques-2E8B57?style=for-the-badge" alt="Applications analytiques">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Études_appliquées-DA70D6?style=for-the-badge" alt="Études appliquées en économie & data science">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Développement d’applications interactives<br>
+      Streamlit et RShiny
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Projets concrets combinant économie et data science
+    </td>
+  </tr>
+</table>
 
 ## 🎶 Centres d'intérêt
 
-![Sport](https://img.shields.io/badge/Sport-FF4500?style=for-the-badge)  
-Football, activités sportives régulières  
+<table style="width:100%; border-collapse: collapse; text-align:center;">
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Sport-FF4500?style=for-the-badge" alt="Sport">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Art-1E90FF?style=for-the-badge" alt="Art">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Football<br>
+      Activités sportives régulières
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Piano<br>
+      Technicien de son
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Écologie-32CD32?style=for-the-badge" alt="Écologie">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Vie_associative-FFD700?style=for-the-badge" alt="Vie associative">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Président du club des Casques Verts (EPO, 2022–2023)
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Responsable activités sportives de l'Amicale des Burkinabè à l'ENSAE
+    </td>
+  </tr>
+</table>
 
-![Art](https://img.shields.io/badge/Art-1E90FF?style=for-the-badge)  
-Piano, technicien de son  
-
-![Écologie](https://img.shields.io/badge/Écologie-32CD32?style=for-the-badge)  
-Président du club des Casques Verts (EPO, 2022–2023)  
-
-![Vie associative](https://img.shields.io/badge/Vie_associative-FFD700?style=for-the-badge)  
-Responsable activités sportives de l'Amicale des Burkinabè à l'ENSAE
 
 ---
 
