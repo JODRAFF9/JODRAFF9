@@ -139,7 +139,7 @@ Ma formation en classes préparatoires m’a offert une base scientifique solide
 <table style="width:100%; border-collapse: collapse; text-align:center;">
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Algèbre-1E90FF?style=for-the-badge" alt="Algèbre" style="float:left; margin-right:10px;">
+      <img src="https://img.shields.io/badge/Algèbre-1E90FF?style=for-the-badge" alt="Algèbre" style="float:left; margin-right:10px">
     </th>
     <th>
       <img src="https://img.shields.io/badge/Analyse-4169E1?style=for-the-badge" alt="Analyse" style="float:left; margin-right:10px>
