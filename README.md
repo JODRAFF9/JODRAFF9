@@ -136,17 +136,50 @@ Ma formation en classes préparatoires m’a offert une base scientifique solide
 ---
 
 ### 🧮 Mathématiques Approfondies
-![Algèbre](https://img.shields.io/badge/Algèbre-1E90FF?style=for-the-badge)  
-Structures algébriques, espaces vectoriels, matrices, déterminants  
+<table style="width:100%; border-collapse: collapse; text-align:center;">
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Algèbre-1E90FF?style=for-the-badge" alt="Algèbre">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Analyse-4169E1?style=for-the-badge" alt="Analyse">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Structures algébriques<br>
+      Espaces vectoriels<br>
+      Matrices<br>
+      Déterminants
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Suites et séries<br>
+      Fonctions<br>
+      Calcul différentiel et intégral<br>
+      Équations différentielles
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/Probabilités_&_Statistiques-2E8B57?style=for-the-badge" alt="Probabilités & Statistiques">
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Géométrie-20B2AA?style=for-the-badge" alt="Géométrie">
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; text-align:left;">
+      Modélisation<br>
+      Variables aléatoires<br>
+      Lois usuelles
+    </td>
+    <td style="padding:10px; text-align:left;">
+      Espaces euclidiens<br>
+      Produits scalaires
+    </td>
+  </tr>
+</table>
 
-![Analyse](https://img.shields.io/badge/Analyse-4169E1?style=for-the-badge)  
-Suites, séries, fonctions, calcul différentiel et intégral, équations différentielles  
-
-![Probabilités & Statistiques](https://img.shields.io/badge/Probabilités_&_Statistiques-2E8B57?style=for-the-badge)  
-Modélisation, variables aléatoires, lois usuelles  
-
-![Géométrie](https://img.shields.io/badge/Géométrie-20B2AA?style=for-the-badge)  
-Espaces euclidiens, produits scalaires  
 
 ---
 
