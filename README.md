@@ -139,10 +139,10 @@ Ma formation en classes préparatoires m’a offert une base scientifique solide
 <table style="width:100%; border-collapse: collapse; text-align:center;">
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Algèbre-1E90FF?style=for-the-badge" alt="Algèbre">
+      <img src="https://img.shields.io/badge/Algèbre-1E90FF?style=for-the-badge" alt="Algèbre" style="float:left; margin-right:10px;">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Analyse-4169E1?style=for-the-badge" alt="Analyse">
+      <img src="https://img.shields.io/badge/Analyse-4169E1?style=for-the-badge" alt="Analyse" style="float:left; margin-right:10px>
     </th>
   </tr>
   <tr>
@@ -161,10 +161,10 @@ Ma formation en classes préparatoires m’a offert une base scientifique solide
   </tr>
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Probabilités_&_Statistiques-2E8B57?style=for-the-badge" alt="Probabilités & Statistiques">
+      <img src="https://img.shields.io/badge/Probabilités_&_Statistiques-2E8B57?style=for-the-badge" alt="Probabilités & Statistiques" style="float:left; margin-right:10px>
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Géométrie-20B2AA?style=for-the-badge" alt="Géométrie">
+      <img src="https://img.shields.io/badge/Géométrie-20B2AA?style=for-the-badge" alt="Géométrie" style="float:left; margin-right:10px>
     </th>
   </tr>
   <tr>
