@@ -8,7 +8,7 @@
 📊 Passionné par la data science, l'analyse statistique et l'économie appliquée<br>
 💻 Je code en Python, R, Stata et je développe des applications avec Streamlit et RShiny</p>
 
-<p>📧 <b>Email :</b> rasitraore9@gmail.com<br>
+<p>📧 <b>Email :</b> sierachidtraore@gmail.com<br>
 📱 <b>Tel :</b> +221 77 674 66 84<br>
 🔗 <a href="https://www.linkedin.com/in/sie-rachid-traore-4a7152271">LinkedIn</a> | 
 <a href="https://github.com/JODRAFF9">GitHub</a> | 
