@@ -1,15 +1,15 @@
 <div align="center">
 
-<h1>👋 Bonjour, je suis Traoré Sié Rachid</h1>
+<h1>👋 Hi, I am Traoré Sié Rachid</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Élève+Ingénieur+Statisticien-Économiste+%7C+ENSAE+Dakar;Passionné+par+la+Data+Science+et+l'Économie;Développeur+Python+%7C+R+%7C+Stata+%7C+SQL;Toujours+en+quête+d'apprentissage+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Student+Statistician-Economist+Engineer+%7C+ENSAE+Dakar;Passionate+about+Data+Science+and+Economics;Python+Developer+%7C+R+%7C+Stata+%7C+SQL;Always+seeking+to+learn+🚀" alt="Typing SVG" />
 
-<p>🎓 Élève ingénieur statisticien-économiste à l'ENSAE Dakar (2023–2026)<br>
-📊 Passionné par la data science, l'analyse statistique et l'économie appliquée<br>
-💻 Je code en Python, R, Stata et je développe des applications avec Streamlit et RShiny</p>
+<p>🎓 Student statistician-economist engineer at ENSAE Dakar (2023–2026)<br>
+📊 Passionate about data science, statistical analysis and applied economics<br>
+💻 I code in Python, R, Stata and develop applications with Streamlit and RShiny</p>
 
 <p>📧 📧 <b>Email :</b> <a href="mailto:sierachidtraore@gmail.com">sierachidtraore@gmail.com</a><br>
-📱 <b>Tel :</b> +221 77 674 66 84<br>
+📱 <b>Phone :</b> +221 77 674 66 84<br>
 🔗 <a href="https://www.linkedin.com/in/sie-rachid-traore-4a7152271">LinkedIn</a> | 
 <a href="https://github.com/JODRAFF9">GitHub</a> | 
 <a href="https://mon-site-75uf.onrender.com/">Portfolio</a></p>
@@ -18,27 +18,27 @@
 
 ---
 
-## 🚀 Compétences Techniques  
+## 🚀 Technical Skills  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Stata](https://img.shields.io/badge/Stata-00BFFF?style=for-the-badge)![SPSS](https://img.shields.io/badge/SPSS-FF6347?style=for-the-badge)![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)![RShiny](https://img.shields.io/badge/RShiny-1E90FF?style=for-the-badge&logo=r&logoColor=white)![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
 
-- 📊 **Analyse de données :** pandas, numpy, R, Stata, SPSS  
-- 🤖 **Machine Learning :** modèles supervisés et non supervisés (scikit-learn)  
-- 📈 **Visualisation :** Matplotlib, Seaborn, Plotly, ggplot2  
-- 🧮 **Économétrie :** modélisation et prévisions  
-- 💻 **Développement web :** applications analytiques avec Streamlit & RShiny  
+- 📊 **Data Analysis :** pandas, numpy, R, Stata, SPSS  
+- 🤖 **Machine Learning :** supervised and unsupervised models (scikit-learn)  
+- 📈 **Visualization :** Matplotlib, Seaborn, Plotly, ggplot2  
+- 🧮 **Econometrics :** modeling and forecasting  
+- 💻 **Web Development :** analytical applications with Streamlit & RShiny  
 
 ---
 
-## 💡 Compétences Comportementales  
+## 💡 Soft Skills  
 
-- ✅ Prise d'initiative  
-- ✅ Créativité  
-- ✅ Esprit d'équipe  
+- ✅ Initiative  
+- ✅ Creativity  
+- ✅ Team spirit  
 
 ---
 
-## 📊 Statistiques GitHub  
+## 📊 GitHub Statistics  
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JODRAFF9&show_icons=true&theme=radical"/>
@@ -117,120 +117,120 @@
 </p>
 
 ---
-## 🎓 Formation  
+## 🎓 Education  
 
-### 🌍 Parcours Académique  
+### 🌍 Academic Background  
 
 - **ENSAE Dakar** (2023 – 2026)  
-  *Cycle d'ingénieur statisticien-économiste*  
+  *Statistician-Economist Engineer Program*  
 
-- **École Polytechnique de Ouagadougou** (2021 – 2023)  
-  *Classes préparatoires – Filière PCSI (Physique, Chimie et Sciences de l'Ingénieur)*  
-
----
-
-## 📘 Fondamentaux Académiques (PCSI – EPO)
-
-Ma formation en classes préparatoires m’a offert une base scientifique solide et pluridisciplinaire, essentielle pour mes études d’ingénieur.  
+- **Polytechnic School of Ouagadougou** (2021 – 2023)  
+  *Preparatory Classes – PCSI Track (Physics, Chemistry and Engineering Sciences)*  
 
 ---
 
-### 🧮 Mathématiques Approfondies
+## 📘 Academic Foundations (PCSI – EPO)
+
+My preparatory class training provided me with a solid and multidisciplinary scientific foundation, essential for my engineering studies.  
+
+---
+
+### 🧮 Advanced Mathematics
 <table style="width:100%; border-collapse: collapse; text-align:center;">
-  <tr>
+   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Algèbre-1E90FF?style=for-the-badge" alt="Algèbre" >
+      <img src="https://img.shields.io/badge/Algebra-1E90FF?style=for-the-badge" alt="Algebra" >
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Analyse-4169E1?style=for-the-badge" alt="Analyse" >
+      <img src="https://img.shields.io/badge/Analysis-4169E1?style=for-the-badge" alt="Analysis" >
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Structures algébriques<br>
-      Espaces vectoriels<br>
+      Algebraic structures<br>
+      Vector spaces<br>
       Matrices<br>
-      Déterminants
-    </td>
+      Determinants
+     </td>
     <td style="padding:10px; text-align:left;">
-      Suites et séries<br>
-      Fonctions<br>
-      Calcul différentiel et intégral<br>
-      Équations différentielles
-    </td>
+      Sequences and series<br>
+      Functions<br>
+      Differential and integral calculus<br>
+      Differential equations
+     </td>
   </tr>
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Probabilités_&_Statistiques-2E8B57?style=for-the-badge" alt="Probabilités & Statistiques">
+      <img src="https://img.shields.io/badge/Probability_&_Statistics-2E8B57?style=for-the-badge" alt="Probability & Statistics">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Géométrie-20B2AA?style=for-the-badge" alt="Géométrie" >
+      <img src="https://img.shields.io/badge/Geometry-20B2AA?style=for-the-badge" alt="Geometry" >
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Modélisation<br>
-      Variables aléatoires<br>
-      Lois usuelles
-    </td>
+      Modeling<br>
+      Random variables<br>
+      Common distributions
+     </td>
     <td style="padding:10px; text-align:left;">
-      Espaces euclidiens<br>
-      Produits scalaires
-    </td>
+      Euclidean spaces<br>
+      Dot products
+     </td>
   </tr>
 </table>
 
 
 ---
 
-### ⚛️ Physique Fondamentale & Appliquée
+### ⚛️ Fundamental & Applied Physics
 <table style="width:100%; border-collapse: collapse; text-align:center;">
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Mécanique-FF8C00?style=for-the-badge" alt="Mécanique">
+      <img src="https://img.shields.io/badge/Mechanics-FF8C00?style=for-the-badge" alt="Mechanics">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Électromagnétisme-DAA520?style=for-the-badge" alt="Électromagnétisme">
+      <img src="https://img.shields.io/badge/Electromagnetism-DAA520?style=for-the-badge" alt="Electromagnetism">
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Cinématique<br>
-      Dynamique du point<br>
-      Dynamique des fluides
-    </td>
+      Kinematics<br>
+      Dynamics of a point<br>
+      Fluid dynamics
+     </td>
     <td style="padding:10px; text-align:left;">
-      Électrocinétique<br>
+      Electrokinetics<br>
       Induction<br>
-      Équations de Maxwell
-    </td>
+      Maxwell's equations
+     </td>
   </tr>
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Optique-FFD700?style=for-the-badge" alt="Optique">
+      <img src="https://img.shields.io/badge/Optics-FFD700?style=for-the-badge" alt="Optics">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Thermodynamique-FFB347?style=for-the-badge" alt="Thermodynamique">
+      <img src="https://img.shields.io/badge/Thermodynamics-FFB347?style=for-the-badge" alt="Thermodynamics">
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Optique géométrique et physique<br>
-      Interférences<br>
+      Geometric and physical optics<br>
+      Interference<br>
       Diffraction
-    </td>
+     </td>
     <td style="padding:10px; text-align:left;">
-      Lois fondamentales<br>
-      Mécanique des fluides
-    </td>
+      Fundamental laws<br>
+      Fluid mechanics
+     </td>
   </tr>
 </table>
 
 <div style="margin-top:15px; text-align:center;">
-  <img src="https://img.shields.io/badge/Physique_moderne-FFA07A?style=for-the-badge" alt="Physique moderne">
+  <img src="https://img.shields.io/badge/Modern_Physics-FFA07A?style=for-the-badge" alt="Modern physics">
   <p>
-    Introduction à la mécanique quantique<br>
-    Ondes<br>
+    Introduction to quantum mechanics<br>
+    Waves<br>
     Lasers
   </p>
 </div>
@@ -238,178 +238,178 @@ Ma formation en classes préparatoires m’a offert une base scientifique solide
 
 ---
 
-### 🧪 Chimie Générale & Organique
+### 🧪 General & Organic Chemistry
 <table style="width:100%; border-collapse: collapse; text-align:center;">
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Atomistique-9932CC?style=for-the-badge" alt="Atomistique">
+      <img src="https://img.shields.io/badge/Atomistics-9932CC?style=for-the-badge" alt="Atomistics">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Thermochimie-BA55D3?style=for-the-badge" alt="Thermochimie">
+      <img src="https://img.shields.io/badge/Thermochemistry-BA55D3?style=for-the-badge" alt="Thermochemistry">
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Structure de la matière
-    </td>
+      Structure of matter
+     </td>
     <td style="padding:10px; text-align:left;">
-      Cinétique chimique<br>
-      Bilans énergétiques
-    </td>
+      Chemical kinetics<br>
+      Energy balances
+     </td>
   </tr>
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Chimie_des_solutions-8A2BE2?style=for-the-badge" alt="Chimie des solutions">
+      <img src="https://img.shields.io/badge/Solution_Chemistry-8A2BE2?style=for-the-badge" alt="Solution chemistry">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Chimie_organique-DA70D6?style=for-the-badge" alt="Chimie organique">
+      <img src="https://img.shields.io/badge/Organic_Chemistry-DA70D6?style=for-the-badge" alt="Organic chemistry">
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Électrochimie<br>
-      Cristallographie
-    </td>
+      Electrochemistry<br>
+      Crystallography
+     </td>
     <td style="padding:10px; text-align:left;">
-      Niveaux 1 &amp; 2
-    </td>
+      Levels 1 &amp; 2
+     </td>
   </tr>
 </table>
  
 
 ---
 
-### 💻 Sciences de l'Ingénieur & Informatique
+### 💻 Engineering & Computer Science
 <table style="width:100%; border-collapse: collapse; text-align:center;">
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Informatique-00BFFF?style=for-the-badge" alt="Informatique">
+      <img src="https://img.shields.io/badge/Computer_Science-00BFFF?style=for-the-badge" alt="Computer Science">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Automatique-4682B4?style=for-the-badge" alt="Automatique">
+      <img src="https://img.shields.io/badge/Automation-4682B4?style=for-the-badge" alt="Automation">
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Algorithmique<br>
-      Programmation Python<br>
-      Structures de données<br>
-      POO<br>
-      Bases de données
-    </td>
+      Algorithms<br>
+      Python programming<br>
+      Data structures<br>
+      OOP<br>
+      Databases
+     </td>
     <td style="padding:10px; text-align:left;">
-      Systèmes linéaires<br>
-      Asservissements
-    </td>
+      Linear systems<br>
+      Control systems
+     </td>
   </tr>
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Mécanique_industrielle-5F9EA0?style=for-the-badge" alt="Mécanique industrielle">
+      <img src="https://img.shields.io/badge/Industrial_Mechanics-5F9EA0?style=for-the-badge" alt="Industrial mechanics">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Modélisation-008B8B?style=for-the-badge" alt="Modélisation">
+      <img src="https://img.shields.io/badge/Modeling-008B8B?style=for-the-badge" alt="Modeling">
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Solides indéformables<br>
-      Conception mécanique
-    </td>
+      Rigid body mechanics<br>
+      Mechanical design
+     </td>
     <td style="padding:10px; text-align:left;">
-      Langage SysML<br>
-      Dessin technique
-    </td>
+      SysML language<br>
+      Technical drawing
+     </td>
   </tr>
 </table>
 
 ---
 
-### 🌐 Langues & Expression
+### 🌐 Languages & Communication
 <table style="width:100%; border-collapse: collapse; text-align:center;">
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Français-708090?style=for-the-badge" alt="Français">
+      <img src="https://img.shields.io/badge/French-708090?style=for-the-badge" alt="French">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Anglais-1E90FF?style=for-the-badge" alt="Anglais">
+      <img src="https://img.shields.io/badge/English-1E90FF?style=for-the-badge" alt="English">
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Grammaire<br>
-      Expression écrite<br>
-      Études littéraires
-    </td>
+      Grammar<br>
+      Written expression<br>
+      Literary studies
+     </td>
     <td style="padding:10px; text-align:left;">
-      Compréhension écrite<br>
-      Rédaction scientifique<br>
-      Présentations orales
-    </td>
+      Reading comprehension<br>
+      Scientific writing<br>
+      Oral presentations
+     </td>
   </tr>
 </table>
 
 ---
 
-## 📚 Formation académique à l'ENSAE Dakar  
+## 📚 Academic Training at ENSAE Dakar  
 
-🎓 **Cycle d'ingénieur statisticien-économiste** (2023 – 2026)  
+🎓 **Statistician-Economist Engineer Program** (2023 – 2026)  
 
-Durant ma formation, j'acquiers des compétences solides dans plusieurs domaines :  
+During my training, I acquire strong skills in several areas :  
 
 ---
 
-### 🧮 Mathématiques appliquées
+### 🧮 Applied Mathematics
 <table style="width:100%; border-collapse: collapse; text-align:center;">
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Algèbre-6A5ACD?style=for-the-badge" alt="Algèbre">
+      <img src="https://img.shields.io/badge/Algebra-6A5ACD?style=for-the-badge" alt="Algebra">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Analyse-2F80ED?style=for-the-badge" alt="Analyse">
+      <img src="https://img.shields.io/badge/Analysis-2F80ED?style=for-the-badge" alt="Analysis">
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Structures algébriques<br>
-      Espaces vectoriels<br>
+      Algebraic structures<br>
+      Vector spaces<br>
       Matrices<br>
-      Déterminants
-    </td>
+      Determinants
+     </td>
     <td style="padding:10px; text-align:left;">
-      Suites et séries<br>
-      Fonctions<br>
-      Calcul différentiel et intégral<br>
-      Équations différentielles
-    </td>
+      Sequences and series<br>
+      Functions<br>
+      Differential and integral calculus<br>
+      Differential equations
+     </td>
   </tr>
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Probabilités-FFA500?style=for-the-badge" alt="Probabilités">
+      <img src="https://img.shields.io/badge/Probability-FFA500?style=for-the-badge" alt="Probability">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Calcul-008080?style=for-the-badge" alt="Calcul">
+      <img src="https://img.shields.io/badge/Calculus-008080?style=for-the-badge" alt="Calculus">
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Modélisation<br>
-      Variables aléatoires<br>
-      Lois usuelles
-    </td>
+      Modeling<br>
+      Random variables<br>
+      Common distributions
+     </td>
     <td style="padding:10px; text-align:left;">
-      Calcul différentiel et intégral appliqué
-    </td>
+      Applied differential and integral calculus
+     </td>
   </tr>
 </table>
  
 
 ---
 
-### 📊 Statistique & Data Science
+### 📊 Statistics & Data Science
 <table style="width:100%; border-collapse: collapse; text-align:center;">
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Statistiques-2E8B57?style=for-the-badge" alt="Statistiques">
+      <img src="https://img.shields.io/badge/Statistics-2E8B57?style=for-the-badge" alt="Statistics">
     </th>
     <th>
       <img src="https://img.shields.io/badge/Machine_Learning-FF4500?style=for-the-badge" alt="Machine Learning">
@@ -417,91 +417,91 @@ Durant ma formation, j'acquiers des compétences solides dans plusieurs domaines
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Analyse et traitement des données
-    </td>
+      Data analysis and processing
+     </td>
     <td style="padding:10px; text-align:left;">
-      Apprentissage automatique<br>
-      Modèles prédictifs
-    </td>
+      Machine learning<br>
+      Predictive models
+     </td>
   </tr>
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Économétrie-4682B4?style=for-the-badge" alt="Économétrie">
+      <img src="https://img.shields.io/badge/Econometrics-4682B4?style=for-the-badge" alt="Econometrics">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Data_Visualisation-FF69B4?style=for-the-badge" alt="Data Visualisation">
+      <img src="https://img.shields.io/badge/Data_Visualization-FF69B4?style=for-the-badge" alt="Data Visualization">
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Études économétriques<br>
-      Modélisation
-    </td>
+      Econometric studies<br>
+      Modeling
+     </td>
     <td style="padding:10px; text-align:left;">
-      Visualisation<br>
-      Interprétation graphique des données
-    </td>
+      Visualization<br>
+      Graphical data interpretation
+     </td>
   </tr>
 </table>
 
  <div style="margin-top:15px; text-align:center;">
-  <img src="https://img.shields.io/badge/Statistique_&_Data_Science-006400?style=for-the-badge" alt="Statistique & Data Science">
+  <img src="https://img.shields.io/badge/Statistics_&_Data_Science-006400?style=for-the-badge" alt="Statistics & Data Science">
   <p>
-    Compétences globales en data science et statistique
+    Comprehensive skills in data science and statistics
   </p>
 </div>
 
 
 ---
 
-### 💼 Économie & Gestion
+### 💼 Economics & Management
 <table style="width:100%; border-collapse: collapse; text-align:center;">
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Microéconomie-FFD700?style=for-the-badge" alt="Microéconomie">
+      <img src="https://img.shields.io/badge/Microeconomics-FFD700?style=for-the-badge" alt="Microeconomics">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Macroéconomie-DC143C?style=for-the-badge" alt="Macroéconomie">
+      <img src="https://img.shields.io/badge/Macroeconomics-DC143C?style=for-the-badge" alt="Macroeconomics">
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Analyse des comportements des agents économiques
-    </td>
+      Analysis of economic agents' behavior
+     </td>
     <td style="padding:10px; text-align:left;">
-      Études des grandes tendances économiques et politiques
-    </td>
+      Study of major economic trends and policies
+     </td>
   </tr>
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Croissance-8A2BE2?style=for-the-badge" alt="Croissance">
+      <img src="https://img.shields.io/badge/Growth-8A2BE2?style=for-the-badge" alt="Growth">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Comptabilité-228B22?style=for-the-badge" alt="Comptabilité">
+      <img src="https://img.shields.io/badge/Accounting-228B22?style=for-the-badge" alt="Accounting">
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Évaluation et analyse de la croissance économique
-    </td>
+      Assessment and analysis of economic growth
+     </td>
     <td style="padding:10px; text-align:left;">
-      Gestion financière<br>
-      Tenue de comptes
-    </td>
+      Financial management<br>
+      Bookkeeping
+     </td>
   </tr>
 </table>
 
 <div style="margin-top:15px; text-align:center;">
-  <img src="https://img.shields.io/badge/Économie_&_Gestion-8B0000?style=for-the-badge" alt="Économie & Gestion">
+  <img src="https://img.shields.io/badge/Economics_&_Management-8B0000?style=for-the-badge" alt="Economics & Management">
   <p>
-    Compétences globales en économie et gestion
+    Comprehensive skills in economics and management
   </p>
 </div>
 
 
 ---
 
-### 💻 Informatique & Programmation
+### 💻 Computer Science & Programming
 <table style="width:100%; border-collapse: collapse; text-align:center;">
   <tr>
     <th>
@@ -513,11 +513,11 @@ Durant ma formation, j'acquiers des compétences solides dans plusieurs domaines
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Programmation et analyse de données en Python
-    </td>
+      Python programming and data analysis
+     </td>
     <td style="padding:10px; text-align:left;">
-      Analyse statistique et modélisation avec R
-    </td>
+      Statistical analysis and modeling with R
+     </td>
   </tr>
   <tr>
     <th>
@@ -529,11 +529,11 @@ Durant ma formation, j'acquiers des compétences solides dans plusieurs domaines
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Traitement de données économiques et statistiques
-    </td>
+      Economic and statistical data processing
+     </td>
     <td style="padding:10px; text-align:left;">
-      Analyse statistique avancée
-    </td>
+      Advanced statistical analysis
+     </td>
   </tr>
   <tr>
     <th>
@@ -545,11 +545,11 @@ Durant ma formation, j'acquiers des compétences solides dans plusieurs domaines
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Gestion et requêtes de bases de données
-    </td>
+      Database management and querying
+     </td>
     <td style="padding:10px; text-align:left;">
-      Création d’applications interactives pour la data
-    </td>
+      Creating interactive data applications
+     </td>
   </tr>
   <tr>
     <th>
@@ -561,61 +561,61 @@ Durant ma formation, j'acquiers des compétences solides dans plusieurs domaines
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Applications interactives avec R
-    </td>
+      Interactive applications with R
+     </td>
     <td style="padding:10px; text-align:left;">
-      Automatisation et programmation Excel
-    </td>
+      Excel automation and programming
+     </td>
   </tr>
 </table>
 
 
 ---
 
-### 📂 Projets pratiques
+### 📂 Practical Projects
 <table style="width:100%; border-collapse: collapse; text-align:center;">
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Modélisation_statistique-1E90FF?style=for-the-badge" alt="Modélisation statistique">
+      <img src="https://img.shields.io/badge/Statistical_Modeling-1E90FF?style=for-the-badge" alt="Statistical modeling">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Analyse_économétrique-FF4500?style=for-the-badge" alt="Analyse économétrique">
+      <img src="https://img.shields.io/badge/Econometric_Analysis-FF4500?style=for-the-badge" alt="Econometric analysis">
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Analyse et modélisation des données statistiques
-    </td>
+      Data analysis and modeling
+     </td>
     <td style="padding:10px; text-align:left;">
-      Réalisation d’études économétriques<br>
-      Interprétation des résultats
-    </td>
+      Conducting econometric studies<br>
+      Interpreting results
+     </td>
   </tr>
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Applications_analytiques-2E8B57?style=for-the-badge" alt="Applications analytiques">
+      <img src="https://img.shields.io/badge/Analytical_Applications-2E8B57?style=for-the-badge" alt="Analytical applications">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Études_appliquées-DA70D6?style=for-the-badge" alt="Études appliquées en économie & data science">
+      <img src="https://img.shields.io/badge/Applied_Studies-DA70D6?style=for-the-badge" alt="Applied studies in economics & data science">
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Développement d’applications interactives<br>
-      Streamlit et RShiny
-    </td>
+      Developing interactive applications<br>
+      Streamlit and RShiny
+     </td>
     <td style="padding:10px; text-align:left;">
-      Projets concrets combinant économie et data science
-    </td>
+      Concrete projects combining economics and data science
+     </td>
   </tr>
 </table>
 
-## 🎶 Centres d'intérêt
+## 🎶 Interests
 
 <table style="width:100%; border-collapse: collapse; text-align:center;">
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Sport-FF4500?style=for-the-badge" alt="Sport">
+      <img src="https://img.shields.io/badge/Sports-FF4500?style=for-the-badge" alt="Sports">
     </th>
     <th>
       <img src="https://img.shields.io/badge/Art-1E90FF?style=for-the-badge" alt="Art">
@@ -624,37 +624,37 @@ Durant ma formation, j'acquiers des compétences solides dans plusieurs domaines
   <tr>
     <td style="padding:10px; text-align:left;">
       Football<br>
-      Activités sportives régulières
-    </td>
+      Regular sports activities
+     </td>
     <td style="padding:10px; text-align:left;">
       Piano<br>
-      Technicien de son
-    </td>
+      Sound technician
+     </td>
   </tr>
   <tr>
     <th>
-      <img src="https://img.shields.io/badge/Écologie-32CD32?style=for-the-badge" alt="Écologie">
+      <img src="https://img.shields.io/badge/Ecology-32CD32?style=for-the-badge" alt="Ecology">
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Vie_associative-FFD700?style=for-the-badge" alt="Vie associative">
+      <img src="https://img.shields.io/badge/Community_Life-FFD700?style=for-the-badge" alt="Community life">
     </th>
   </tr>
   <tr>
     <td style="padding:10px; text-align:left;">
-      Président du club des Casques Verts (EPO, 2022–2023)
-    </td>
+      President of the Green Helmets club (EPO, 2022–2023)
+     </td>
     <td style="padding:10px; text-align:left;">
-      Responsable activités sportives de l'Amicale des Burkinabè à l'ENSAE
-    </td>
+      Head of sports activities for the Burkinabè Student Association at ENSAE
+     </td>
   </tr>
 </table>
 
 
 ---
 
-## 🤝 Collaborons !  
+## 🤝 Let's Collaborate!  
 
-Je suis toujours ouvert aux projets autour de la **data science**, de l'**analyse économique** et du **développement web & analytique**.  
+I am always open to projects in **data science**, **economic analysis** and **analytical & web development**.  
 
 <div align="center">
 
@@ -666,7 +666,7 @@ Je suis toujours ouvert aux projets autour de la **data science**, de l'**analys
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JODRAFF9&color=blueviolet&style=flat-square&label=Visiteurs" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JODRAFF9&color=blueviolet&style=flat-square&label=Visitors" alt="Profile views" />
   
-  **_"La statistique et la data science sont des outils puissants pour comprendre et transformer le monde."_** 📊✨
+  **_"Statistics and data science are powerful tools to understand and transform the world."_** 📊✨
 </div>
