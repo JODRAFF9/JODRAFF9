@@ -1,15 +1,23 @@
-<div align="center" 
-     style="background-image: url('https://ton-image.com/image.png');
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
-            opacity: 0.95;
-            padding: 20px;
-            border-radius: 10px;">
+<div align="center" style="position: relative; padding: 20px; border-radius: 10px; overflow: hidden;">
+
+  <!-- Filigrane -->
+<div style="
+      background-image: url('./ensae.png');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      opacity: 0.1;
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      z-index: 0;
+"></div>
+
+  <!-- Contenu -->
+<div style="position: relative; z-index: 1;">
 
 <h1>👋 Hi, I am Traoré Sié Rachid</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Student+Statistician-Economist+Engineer+%7C+ENSAE+Dakar;Passionate+about+Data+Science+and+Economics;Python+Developer+%7C+R+%7C+Stata+%7C+SQL;Always+seeking+to+learn+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Student+Statistician-Economist+Engineer+%7C+ENSAE+Dakar;Passionate+about+Data+Science+and+Economics;Python+Developer+%7C+R+%7C+Stata+%7C+SQL;Always+seeking+to+learn+🚀" />
 
 <p>🎓 Student statistician-economist engineer at ENSAE Dakar (2023–2026)<br>
 📊 Passionate about data science, statistical analysis and applied economics<br>
@@ -20,6 +28,8 @@
 🔗 <a href="https://www.linkedin.com/in/sie-rachid-traore-4a7152271">LinkedIn</a> | 
 <a href="https://github.com/JODRAFF9">GitHub</a> | 
 <a href="https://mon-site-75uf.onrender.com/">Portfolio</a></p>
+
+</div>
 
 </div>
 
