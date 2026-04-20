@@ -1,4 +1,11 @@
-<div align="center">
+<div align="center" 
+     style="background-image: url('https://ton-image.com/image.png');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            opacity: 0.95;
+            padding: 20px;
+            border-radius: 10px;">
 
 <h1>👋 Hi, I am Traoré Sié Rachid</h1>
 
@@ -8,7 +15,7 @@
 📊 Passionate about data science, statistical analysis and applied economics<br>
 💻 I code in Python, R, Stata and develop applications with Streamlit and RShiny</p>
 
-<p>📧 📧 <b>Email :</b> <a href="mailto:sierachidtraore@gmail.com">sierachidtraore@gmail.com</a><br>
+<p>📧 <b>Email :</b> <a href="mailto:sierachidtraore@gmail.com">sierachidtraore@gmail.com</a><br>
 📱 <b>Phone :</b> +221 77 674 66 84<br>
 🔗 <a href="https://www.linkedin.com/in/sie-rachid-traore-4a7152271">LinkedIn</a> | 
 <a href="https://github.com/JODRAFF9">GitHub</a> | 
