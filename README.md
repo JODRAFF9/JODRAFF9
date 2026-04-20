@@ -2,7 +2,7 @@
 
   <!-- Filigrane -->
 <div style="
-      background-image: url('./ensae.png');
+      background-image: url('ensae.png');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
