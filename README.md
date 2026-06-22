@@ -73,13 +73,6 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JODRAFF9&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=JODRAFF9/JODRAFF9&type=Date)](https://star-history.com/#JODRAFF9/JODRAFF9&Date)
-
----
-
 <details>
 <summary>🎮 Interactive Game - Try pressing the buttons!</summary>
 
