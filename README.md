@@ -73,11 +73,6 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JODRAFF9&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-<details>
-<summary>🎮 Interactive Game - Try pressing the buttons!</summary>
-
-<p>Use the arrow keys and A/B buttons below (they connect to my LinkedIn profile)</p>
-
 <div>
   <a href="https://www.linkedin.com/in/siérachidtraoré" target="_blank">
   <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/me64.png" width="300" alt="Profile Avatar" />
