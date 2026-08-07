@@ -1,37 +1,37 @@
-<div align="center" style="position: relative; padding: 20px; border-radius: 10px; overflow: hidden;">
-
-  <!-- Filigrane -->
-<div style="
-      background-image: url('ensae.png');
-      background-size: cover;
-      background-position: center;
-      background-repeat: no-repeat;
-      opacity: 0.1;
-      position: absolute;
-      top: 0; left: 0; right: 0; bottom: 0;
-      z-index: 0;
-"></div>
-
-  <!-- Contenu -->
-<div style="position: relative; z-index: 1;">
+<div align="center">
 
 <h1>👋 Hi, I am Traoré Sié Rachid</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Student+Statistician-Economist+Engineer+%7C+ENSAE+Dakar;Passionate+about+Data+Science+and+Economics;Python+Developer+%7C+R+%7C+Stata+%7C+SQL;Always+seeking+to+learn+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Statistician-Economist+Engineer+%28ISE%29+%7C+ENSAE+Dakar;Data+Science+%7C+Econometrics+%7C+Applied+Statistics;R+%7C+Python+%7C+Stata+%7C+SQL;Turning+survey+and+economic+data+into+decisions+🚀" alt="Statistician-Economist Engineer | Data Science and Econometrics" />
 
-<p>🎓 Student statistician-economist engineer at ENSAE Dakar (2023–2026)<br>
-📊 Passionate about data science, statistical analysis and applied economics<br>
-💻 I code in Python, R, Stata and develop applications with Streamlit and RShiny</p>
+<p>🎓 Statistician-Economist Engineer (ISE), ENSAE Dakar — class of 2026<br>
+📊 Data science, econometrics and applied economics<br>
+💻 I work in R, Python and Stata, and build analytical apps with Shiny and Streamlit</p>
 
 <p>📧 <b>Email :</b> <a href="mailto:sierachidtraore@gmail.com">sierachidtraore@gmail.com</a><br>
 📱 <b>Phone :</b> +221 77 674 66 84<br>
 🔗 <a href="https://www.linkedin.com/in/sie-rachid-traore-4a7152271">LinkedIn</a> | 
-<a href="https://github.com/JODRAFF9">GitHub</a> | 
+<a href="https://github.com/JODRAFF9?tab=repositories">Repositories</a> | 
 <a href="https://mon-site-75uf.onrender.com/">Portfolio</a></p>
 
 </div>
 
-</div>
+---
+
+## 📂 Featured Projects
+
+> Real code on real data — every title links straight to the repository.
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Master's Thesis — Remittances & Child Poverty](https://github.com/JODRAFF9/MEMOIRE)** | Measures the effect of migrant remittances on multidimensional child poverty in Senegal (EHCVM survey data), combining Alkire-Foster and MODA poverty indices with PSM–difference-in-differences estimation. | R · Stata · Python · LaTeX |
+| **[Afrobarometer Senegal — Survey Pipeline](https://github.com/JODRAFF9/SENEGAL-AFROBAROMETER-PIPELINE-ENSAE)** | End-to-end R pipeline turning raw Afrobarometer data (1,200 respondents) into weighted individual and household tables, composite well-being indices, vulnerability segments and choropleth maps. Ships with a Shiny front-end. | R · sf · ggplot2 · Shiny |
+| **[Time-Series Shiny Dashboard](https://github.com/JODRAFF9/Shinytemp)** | Modular Shiny dashboard for importing, exploring and forecasting time series (ARIMA / ETS), with PostgreSQL, MySQL and SQLite connectors. | R · Shiny · Plotly · forecast · SQL |
+| **[ALM — Bank of Africa Niger](https://github.com/JODRAFF9/ALM-PROJECT)** | Asset-Liability Management study of BOA Niger's 2023 financial statements: prudential ratios, gap analysis and a fully reproducible 22-page report. | R Markdown · ggplot2 · knitr |
+| **[BRVM — Regional Stock Exchange Study](https://github.com/JODRAFF9/BRVM-STUDY)** | Statistical analysis of share prices on the Bourse Régionale des Valeurs Mobilières (WAEMU), from data collection through to the written report. | R |
+| **[EITI Senegal — Extractive Industries](https://github.com/JODRAFF9/CN-ITIE-INTERN)** | Internship with Senegal's national EITI chapter: mirror analysis of mining and hydrocarbon flows, sector contribution to GDP, employment and social payments (2013–2024). | Data analysis · Financial modelling |
+
+➡️ **[Browse all my repositories](https://github.com/JODRAFF9?tab=repositories)**
 
 ---
 
@@ -73,33 +73,6 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JODRAFF9&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-<div>
-  <a href="https://www.linkedin.com/in/siérachidtraoré" target="_blank">
-  <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/me64.png" width="300" alt="Profile Avatar" />
- </a>
-  <br />
-  <br />
-  <a href="https://www.linkedin.com/in/siérachidtraoré?button=2&callback=https://github.com/JODRAFF9" target="_blank">
-    <img src="https://raw.githubusercontent.com/idimetrix/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/up.png" width="35" alt="Up Arrow Button" />
-  </a>
-  <br />
-  <a href="https://www.linkedin.com/in/siérachidtraoré?button=1&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/left.png" width="35" alt="Left Arrow Button" /></a>
-  <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" />
-  <a href="https://www.linkedin.com/in/siérachidtraoré?button=0&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/right.png" width="35" alt="Right Arrow Button" /></a>
-  <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" />
-  <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" />
-  <a href="https://www.linkedin.com/in/siérachidtraoré?button=5&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/B.png" width="35" alt="B Button" /></a>
-  <a href="https://www.linkedin.com/in/siérachidtraoré?button=4&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/A.png" width="35" alt="A Button" /></a> <br />
-  <a href="https://www.linkedin.com/in/siérachidtraoré?button=3&callback=https://github.com/JODRAFF9" target="_blank">
-    <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/down.png" width="35" alt="Down Arrow Button" />
-  </a>
-  <br />
-  <img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/blank.png" width="35" alt="Spacer" />
-  <a href="https://www.linkedin.com/in/siérachidtraoré?button=6&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/main/images/select.png" height="35" alt="Select Button" /></a>
-  <a href="https://www.linkedin.com/in/siérachidtraoré?button=7&callback=https://github.com/JODRAFF9" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/JODRAFF9/main/images/start.png" height="35" alt="Start Button" /></a>
-</div>
-
-</details>
 
 <!--   GitHub stats graph -->
 
@@ -108,12 +81,6 @@
 <!--   green snake -->
 
 ![JODRAFF9's github activity graph](https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/output/github-contribution-grid-snake.svg)
-
-
-![JODRAFF9's github activity graph](https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/output/github-contribution-grid-snake.svg)
-![JODRAFF9's github activity graph dark](https://raw.githubusercontent.com/JODRAFF9/JODRAFF9/output/github-contribution-grid-snake-dark.svg)
-
-<!--   grid-snake ![](https://github.com/idimetrix/idimetrix/blob/output/github-contribution-grid-snake.svg) -->
 
 <h4 align="center">🏆 Trophy: Github Profile Trophy</h4>
 
@@ -359,7 +326,7 @@ My preparatory class training provided me with a solid and multidisciplinary sci
 
 🎓 **Statistician-Economist Engineer Program** (2023 – 2026)  
 
-During my training, I acquire strong skills in several areas :  
+During this training I built strong skills across several areas :  
 
 ---
 
@@ -578,42 +545,20 @@ During my training, I acquire strong skills in several areas :
 ---
 
 ### 📂 Practical Projects
-<table style="width:100%; border-collapse: collapse; text-align:center;">
-  <tr>
-    <th>
-      <img src="https://img.shields.io/badge/Statistical_Modeling-1E90FF?style=for-the-badge" alt="Statistical modeling">
-    </th>
-    <th>
-      <img src="https://img.shields.io/badge/Econometric_Analysis-FF4500?style=for-the-badge" alt="Econometric analysis">
-    </th>
-  </tr>
-  <tr>
-    <td style="padding:10px; text-align:left;">
-      Data analysis and modeling
-     </td>
-    <td style="padding:10px; text-align:left;">
-      Conducting econometric studies<br>
-      Interpreting results
-     </td>
-  </tr>
-  <tr>
-    <th>
-      <img src="https://img.shields.io/badge/Analytical_Applications-2E8B57?style=for-the-badge" alt="Analytical applications">
-    </th>
-    <th>
-      <img src="https://img.shields.io/badge/Applied_Studies-DA70D6?style=for-the-badge" alt="Applied studies in economics & data science">
-    </th>
-  </tr>
-  <tr>
-    <td style="padding:10px; text-align:left;">
-      Developing interactive applications<br>
-      Streamlit and RShiny
-     </td>
-    <td style="padding:10px; text-align:left;">
-      Concrete projects combining economics and data science
-     </td>
-  </tr>
-</table>
+
+Each of these skills is backed by code you can read:
+
+| Skill | Where to see it |
+|---|---|
+| Statistical modelling & econometrics | [MEMOIRE](https://github.com/JODRAFF9/MEMOIRE) — Alkire-Foster / MODA indices, PSM–DiD estimation |
+| Survey data processing | [Afrobarometer Senegal pipeline](https://github.com/JODRAFF9/SENEGAL-AFROBAROMETER-PIPELINE-ENSAE) — weighting, indices, spatial mapping |
+| Interactive applications (Shiny) | [Shinytemp](https://github.com/JODRAFF9/Shinytemp) — modular dashboard with forecasting and SQL connectors |
+| Financial & actuarial analysis | [ALM-PROJECT](https://github.com/JODRAFF9/ALM-PROJECT) · [BRVM-STUDY](https://github.com/JODRAFF9/BRVM-STUDY) |
+| Applied economics | [EITI Senegal](https://github.com/JODRAFF9/CN-ITIE-INTERN) — extractive-sector flows and contribution to GDP |
+
+☝️ See the [**Featured Projects**](#-featured-projects) table at the top for the full description of each.
+
+---
 
 ## 🎶 Interests
 
@@ -663,7 +608,7 @@ I am always open to projects in **data science**, **economic analysis** and **an
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sie-rachid-traore-4a7152271) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasitraore9@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/221776746684)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sie-rachid-traore-4a7152271) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sierachidtraore@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/221776746684)  
 
 </div>
 
