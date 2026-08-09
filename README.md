@@ -52,6 +52,9 @@
 | Certification | Issuer | Date |
 |---|---|---|
 | [Planification de la collecte, du traitement et de l'analyse des données](certificates/unicef-agora-collecte-traitement-analyse-donnees-2026.pdf) | UNICEF — Agora platform | August 2026 |
+| [Masterclass on Artificial Intelligence](https://credentials.itcilo.org/7d3c66e5-b13f-48c5-929d-6ae546b5008e#acc.NL2CxBhn) | ITCILO — International Training Centre of the ILO | March 2026 |
+
+*Both are self-paced online courses. Each link points to the certificate itself or to the issuer's verification page.*
 
 ---
 
