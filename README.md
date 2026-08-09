@@ -47,6 +47,14 @@
 
 ---
 
+## 🏅 Certifications
+
+| Certification | Issuer | Date |
+|---|---|---|
+| [Planification de la collecte, du traitement et de l'analyse des données](certificates/unicef-agora-collecte-traitement-analyse-donnees-2026.pdf) | UNICEF — Agora platform | August 2026 |
+
+---
+
 ## 💡 Soft Skills  
 
 - ✅ Initiative  
