@@ -4,15 +4,16 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Statistician-Economist+Engineer+%28ISE%29+%7C+ENSAE+Dakar;Data+Science+%7C+Econometrics+%7C+Applied+Statistics;R+%7C+Python+%7C+Stata+%7C+SQL;Turning+survey+and+economic+data+into+decisions+🚀" alt="Statistician-Economist Engineer | Data Science and Econometrics" />
 
-<p>🎓 Statistician-Economist Engineer (ISE), ENSAE Dakar — class of 2026<br>
-📊 Data science, econometrics and applied economics<br>
-💻 I work in R, Python and Stata, and build analytical apps with Shiny and Streamlit</p>
+<p>🎓 Statistician-Economist Engineer (ISE), ENSAE Dakar — class of 2026, finance & actuarial science track<br>
+📊 I work at every stage of the data cycle: designing the survey, collecting in the field, cleaning and documenting the data, then delivering it as reports, dashboards and open-data platforms<br>
+💻 R · Python · Stata · SQL — analytical apps with Shiny and Streamlit, dashboards in Power BI</p>
 
 <p>📧 <b>Email :</b> <a href="mailto:sierachidtraore@gmail.com">sierachidtraore@gmail.com</a><br>
 📱 <b>Phone :</b> +221 77 674 66 84<br>
 🔗 <a href="https://www.linkedin.com/in/sie-rachid-traore-4a7152271">LinkedIn</a> | 
 <a href="https://github.com/JODRAFF9?tab=repositories">Repositories</a> | 
-<a href="https://mon-site-75uf.onrender.com/">Portfolio</a></p>
+<a href="https://sierachidtraore.netlify.app">Portfolio</a> | 
+<a href="https://mon-site-75uf.onrender.com/">Portfolio (mirror)</a></p>
 
 </div>
 
@@ -24,26 +25,47 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[OpenRBE — Beneficial Ownership Register](https://github.com/JODRAFF9/RBE.io)** 🌐 [*live*](https://jodraff9.github.io/RBE.io/) | National public lookup for the beneficial owners of Senegal's extractive sector, built to meet requirement 2.5 of the 2023 EITI Standard. Serverless: a single-page client app deployed by GitHub Actions, reading from Google Sheets. | HTML · JS · GitHub Actions |
 | **[Master's Thesis — Remittances & Child Poverty](https://github.com/JODRAFF9/MEMOIRE)** | Measures the effect of migrant remittances on multidimensional child poverty in Senegal (EHCVM survey data), combining Alkire-Foster and MODA poverty indices with PSM–difference-in-differences estimation. | R · Stata · Python · LaTeX |
 | **[Afrobarometer Senegal — Survey Pipeline](https://github.com/JODRAFF9/SENEGAL-AFROBAROMETER-PIPELINE-ENSAE)** | End-to-end R pipeline turning raw Afrobarometer data (1,200 respondents) into weighted individual and household tables, composite well-being indices, vulnerability segments and choropleth maps. Ships with a Shiny front-end. | R · sf · ggplot2 · Shiny |
 | **[Time-Series Shiny Dashboard](https://github.com/JODRAFF9/Shinytemp)** | Modular Shiny dashboard for importing, exploring and forecasting time series (ARIMA / ETS), with PostgreSQL, MySQL and SQLite connectors. | R · Shiny · Plotly · forecast · SQL |
 | **[ALM — Bank of Africa Niger](https://github.com/JODRAFF9/ALM-PROJECT)** | Asset-Liability Management study of BOA Niger's 2023 financial statements: prudential ratios, gap analysis and a fully reproducible 22-page report. | R Markdown · ggplot2 · knitr |
 | **[BRVM — Regional Stock Exchange Study](https://github.com/JODRAFF9/BRVM-STUDY)** | Statistical analysis of share prices on the Bourse Régionale des Valeurs Mobilières (WAEMU), from data collection through to the written report. | R |
 | **[EITI Senegal — Extractive Industries](https://github.com/JODRAFF9/CN-ITIE-INTERN)** | Internship with Senegal's national EITI chapter: mirror analysis of mining and hydrocarbon flows, sector contribution to GDP, employment and social payments (2013–2024). | Data analysis · Financial modelling |
+| **[Data Quality Indicators](https://github.com/JODRAFF9/DATA-QUALITY-INDICATORS-APK)** | Shiny application computing data-quality indicators on survey data, built at ENSAE Dakar. | R · Shiny |
+| **[House Prices — Prediction](https://github.com/JODRAFF9/HOUSE-PRICES-PREDICTIONS)** · **[Prediction API](https://github.com/JODRAFF9/projet-API-ml2)** | Property-price model in Python/scikit-learn with a Streamlit demo, and a machine-learning model exposed through a Flask API with a web front-end and a database-backed history. | Python · scikit-learn · Flask · Streamlit |
+| **[Duration Models](https://github.com/JODRAFF9/modele-de-duree)** · **[Poverty & Inequality](https://github.com/JODRAFF9/poverty-and-inequality-analysis)** | Survival analysis in R from Kaplan-Meier through to the Cox model; poverty and inequality measures on survey data using DASP and ADePT. | R · Stata |
 
 ➡️ **[Browse all my repositories](https://github.com/JODRAFF9?tab=repositories)**
 
 ---
 
+## 💼 Experience
+
+**Data Manager — final-year internship** · EITI Senegal (Extractive Industries Transparency Initiative), Dakar · *05/2026 – 07/2026*
+- Designed and shipped [**OpenRBE**](https://jodraff9.github.io/RBE.io/), the national public lookup for the extractive sector's beneficial-ownership register, meeting requirement 2.5 of the 2023 EITI Standard
+- Produced the register's statistical reports, written for non-specialist readers
+
+**Survey designer & enumerator** · Bureau de Mise à Niveau (BMN) — impact evaluation of Senegal's enterprise upgrading programme, Dakar region · *10/2025 – 11/2025*
+- Designed the reweighting method handling total non-response
+- Collected firm-level data with CSPro and Survey Solutions
+
+**Enumerator** · Agence Française de Développement (AFD) — community governance survey, Oussouye forest, Ziguinchor region · *04/2024 – 05/2024*
+- Collected household and local-stakeholder questionnaires with Survey Solutions
+
+---
+
 ## 🚀 Technical Skills  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Stata](https://img.shields.io/badge/Stata-00BFFF?style=for-the-badge)![SPSS](https://img.shields.io/badge/SPSS-FF6347?style=for-the-badge)![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)![RShiny](https://img.shields.io/badge/RShiny-1E90FF?style=for-the-badge&logo=r&logoColor=white)![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Stata](https://img.shields.io/badge/Stata-00BFFF?style=for-the-badge)![SPSS](https://img.shields.io/badge/SPSS-FF6347?style=for-the-badge)![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)![RShiny](https://img.shields.io/badge/RShiny-1E90FF?style=for-the-badge&logo=r&logoColor=white)![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)  
 
-- 📊 **Data Analysis :** pandas, numpy, R, Stata, SPSS  
-- 🤖 **Machine Learning :** supervised and unsupervised models (scikit-learn)  
-- 📈 **Visualization :** Matplotlib, Seaborn, Plotly, ggplot2  
-- 🧮 **Econometrics :** modeling and forecasting  
-- 💻 **Web Development :** analytical applications with Streamlit & RShiny  
+- 🗂️ **Data management :** questionnaire design, sampling, quality control, cleaning, non-response treatment, reweighting, variable documentation, open data
+- 📱 **Collection platforms :** Kobo Toolbox, ODK (Open Data Kit), Survey Solutions, CSPro, Google Forms
+- 🗄️ **Databases :** SQL — SQL Server, MySQL, PostgreSQL
+- 📊 **Processing & analysis :** R, Python (pandas, numpy, scikit-learn), Stata, SPSS, Eviews, advanced Excel (pivot tables, VBA macros)
+- 🧮 **Statistics & econometrics :** survey sampling theory, inferential statistics, econometrics, machine learning
+- 💰 **Finance & actuarial science :** asset-liability management (ALM), duration models and censored data, financial market analysis
+- 📈 **Visualization & BI :** Power BI (DAX, Power Query), Tableau, RShiny, Streamlit, QGIS and Leaflet mapping, ggplot2, Plotly, LaTeX
 
 ---
 
