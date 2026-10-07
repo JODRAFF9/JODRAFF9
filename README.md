@@ -1,4 +1,11 @@
 <div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
+
+
+<div align="center">
 
 <h1>👋 Hi, I am Traoré Sié Rachid</h1>
 
